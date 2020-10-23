@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before running
 
-npm install
-npm install axios --save
-npm install react-router
+npm install<br />
+npm install axios --save<br />
+npm install react-router<br />
 npm install react-router-dom
 
 ## Available Scripts
